@@ -1,0 +1,19 @@
+"*":
+  "exception-reporting":
+    userId: "6777017c-a7bf-4e7a-4292-9c53effaa46d"
+  welcome:
+    showOnStartup: false
+  "vim-mode": {}
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 13
+  "autocomplete-plus": {}
+  "atom-material-ui":
+    compactTreeView: true
+    panelContrast: true
+    themeSyle: "Darker"
